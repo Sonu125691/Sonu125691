@@ -19,10 +19,10 @@ My learning philosophy is built on **discipline, curiosity, and continuous impro
 
 ## 🛠 Tech Stack
 **Languages:** Python, SQL  
-**Machine Learning:** Scikit-learn
+**Machine Learning:** Scikit-learn  
 **Deep Learning:** TensorFlow, Keras  
-**NLP:** Tokenization, Embedding, RNN, LSTM, Transformers
-**Tools:** Streamlit, Power BI, NumPy, Pandas, Matplotlib, Seaborn
+**NLP:** Tokenization, Embedding, RNN, LSTM, Transformers  
+**Tools:** Streamlit, Power BI, NumPy, Pandas, Matplotlib, Seaborn 
 
 ---
 
