@@ -2,7 +2,8 @@
 
 ### 🧠 Data Scientist / AI Engineer
 
-I am transitioning from Economics into Artificial Intelligence through self-driven learning and consistent hands-on practice.  
+Aspiring Data Science & AI Engineer with a strong foundation in Python, Machine Learning, Deep Learning, Natural Language Processing and Gen AI. Coming from an Economics 
+background, I have transitioned into this field through self-learning, discipline and hands-on projects.   
 I’m deeply passionate about **Natural Language Processing (NLP), Deep Learning, and LLMs**, and I love exploring how machines understand language, context, and logic.
 
 My learning philosophy is built on **discipline, curiosity, and continuous improvement**, and I enjoy spending long focused hours experimenting, learning, and building intelligent systems through AI.
